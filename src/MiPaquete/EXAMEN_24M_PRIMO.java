@@ -7,6 +7,8 @@ public class EXAMEN_24M_PRIMO {
 		int num=0;
 		Scanner ent = new Scanner(System.in);
 		System.out.println("Hola, introduce un número por teclado para saber si es primo");
+		
+		}
 	}
 
-}
+
